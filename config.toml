@@ -1,4 +1,4 @@
-baseURL = "http://heinzb-2021.github.io/Test1/"
+baseURL = "https://heinzb-2021.github.io/Test1/"
 languageCode = "en-us"
 title = "JAMSite"
 theme = "tale"
