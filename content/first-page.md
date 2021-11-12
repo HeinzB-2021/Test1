@@ -1,7 +1,6 @@
 ---
 title: "First Page"
 date: 2019-11-06T17:00:08+02:00
-draft: false
 author: Ray Viljoen
 ---
 
