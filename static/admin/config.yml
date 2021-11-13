@@ -1,8 +1,6 @@
 backend:
-  name: git-gateway
-  
-# when using the default proxy server port
-local_backend: true 
+  name: github
+  repo: HeinzB-2021/Test1 # Path to your GitHub repository
 
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
