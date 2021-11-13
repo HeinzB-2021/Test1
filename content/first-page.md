@@ -1,7 +1,7 @@
 ---
-title: "First Page"
+title: First Page
+author: HeinzB
 date: 2019-11-06T17:00:08+02:00
-author: Ray Viljoen
 ---
 
 # First JAMSite Page
